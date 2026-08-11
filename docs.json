@@ -1,0 +1,19 @@
+{
+  "$schema": "https://docs.page/schema.json",
+  "name": "Nockers Engineering Products",
+  "description": "Factual reference for Nockers Engineering Products, a South African supplier of industrial wire, screening media and engineering materials.",
+  "sidebar": [
+    {
+      "group": "Company",
+      "pages": [
+        {
+          "title": "Nockers Engineering Products",
+          "href": "/"
+        }
+      ]
+    }
+  ],
+  "social": {
+    "github": "https://github.com/nockersengineering/nockers-engineering-products"
+  }
+}
